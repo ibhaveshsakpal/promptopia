@@ -12,7 +12,7 @@ const Home = () => {
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto quidem a aspernatur doloribus nesciunt aliquid eius doloremque. Consequuntur pariatur ea, autem quae adipisci cum porro obcaecati facilis ut, nulla nostrum!
       </p>
 
-      {/* <Feed /> */}
+      <Feed />
     </section>
   );
 };
